@@ -39,6 +39,8 @@ plt.plot(x,ypred,color='Blue')
 plt.show()
 ```
 ## Output
+![Screenshot 2025-05-02 133500](https://github.com/user-attachments/assets/98f2a0c0-be4d-4de0-83ae-11ef7ee7c778)
+![Screenshot 2025-05-02 133510](https://github.com/user-attachments/assets/4a210d94-db48-4802-b508-548e694d2112)
 
 
 ## Result
